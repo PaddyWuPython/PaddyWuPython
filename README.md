@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently looking for internship in Data Science ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaddyWuPython&layout=compact&theme=tokyonight)
-![](https://github-readme-activity-graph.cyclic.app/graph?username=PaddyWuPython&theme=dracula)
+![Activities](https://github-readme-activity-graph.cyclic.app/graph?username=PaddyWuPython&theme=dracula)
